@@ -1,4 +1,4 @@
-Scraper API
+#Scraper API
 This is a simple Node.js application that serves as a Scraper API. It allows you to retrieve product details, reviews, offers, and search results from Amazon using the ScraperAPI service.
 
 Installation
